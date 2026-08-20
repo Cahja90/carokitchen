@@ -6,7 +6,8 @@ Familien-Vorrats-App — PWA und Android. Bald im **Google Play Store**.
 
 CaroKitchen hilft Haushalten, Vorräte, Einkauf und einfache KI-Unterstützung
 unter einem Dach zu halten: Produkte erfassen, Haushalt teilen, per Sprache
-bedienen, Listen synchron halten.
+bedienen, Listen synchron halten sowie einfach ein Foto des Kassenbons machen
+und die KI übernimmt das Ganze als eine Liste.
 
 Aktuell: stabile App-Version in Vorbereitung für den Store-Release.
 Quellcode bleibt vor dem Launch privat.
