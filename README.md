@@ -19,6 +19,20 @@ Quellcode bleibt vor dem Launch privat.
 - [x] Web/PWA-Variante (React, Cloudflare)  
 - [ ] Veröffentlichung im **Google Play Store** (in Arbeit)  
 
+## demo
+
+Öffentlicher Test für einen Tag, ohne Konto und ohne E-Mail:
+[CaroKitchen Demo](https://carokitchen-demo.cahja90.workers.dev)
+
+So geht ein Tag:
+
+1. Demo öffnen
+2. unten `einen tag testen` wählen
+3. Vorrat, Einkauf, Planer und Mehr ansehen
+4. nach 24 Stunden ist der Test zu
+
+Der Produktionscode bleibt privat.
+
 ## Stack (Überblick)
 
 | Teil | Technik |
