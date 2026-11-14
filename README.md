@@ -21,17 +21,18 @@ Quellcode bleibt vor dem Launch privat.
 
 ## demo
 
-Öffentlicher Test für einen Tag, ohne Konto und ohne E-Mail:
-[CaroKitchen Demo](https://carokitchen-demo.cahja90.workers.dev)
+Der Link gilt 24 Stunden und lässt höchstens 50 Leute rein. Jede Adresse testet einmal. Danach ist der Test zu. Ohne diesen Link bleibt die Demo zu.
+
+[CaroKitchen Demo](https://carokitchen-demo.cahja90.workers.dev/?probe=1794732007923.7cebea56d92191e417a2b5cd6c9987470e79ab7153623545088f16d0d64fe4b7)
 
 So geht ein Tag:
 
 1. Demo öffnen
-2. unten `einen tag testen` wählen
+2. `einen tag testen` wählen
 3. Vorrat, Einkauf, Planer und Mehr ansehen
 4. nach 24 Stunden ist der Test zu
 
-Der Produktionscode bleibt privat.
+Die echte App und ihre Haushalte sind eine andere Adresse. Der Produktionscode bleibt privat.
 
 ## Stack (Überblick)
 
